@@ -32,8 +32,7 @@ THEN the saved events persist
 
 The following animation demonstrates the application functionality:
 
-![Work Day Scheduler app with color-coded time slots shows a new event being typed in the 5PM slot.]("C:\Users\18608\Documents\GitHub\WorkdayScheduler\assets\05-third-party-apis-homework-demo.gif")
-
+![Work Day Scheduler app with color-coded time slots shows a new event being typed in the 5PM slot.]("https://github.com/mckeags7/WorkdayScheduler/blob/main/assets/05-third-party-apis-homework-demo.gif?raw=true")
 ## Review
 
 You are required to submit the following for review:
