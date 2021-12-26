@@ -43,7 +43,7 @@ textarea{
 }
 
 .past {
-  background-color: #ff917d;
+  background-color: #f6baba;
   color: white;
 }
 
@@ -53,7 +53,7 @@ textarea{
 }
 
 .future {
-  background-color: #82ff76;
+  background-color: #33ec9f;
   color: white;
 }
 
@@ -61,7 +61,7 @@ textarea{
   border-left: 3px solid black;
   border-top-right-radius: 15px;
   border-bottom-right-radius: 15px;
-  background-color: #40b3c2;
+  background-color: #0c81a5;
   color: white;
 }
 
@@ -74,6 +74,6 @@ textarea{
   border-left: 3px solid black;
   border-top-right-radius: 15px;
   border-bottom-right-radius: 15px;
-  background-color: #585858;
+  background-color: #686666;
   color: white;
 }
