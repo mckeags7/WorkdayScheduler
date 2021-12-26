@@ -34,6 +34,8 @@ The following animation demonstrates the application functionality:
 
 ![Work Day Scheduler app with color-coded time slots shows a new event being typed in the 5PM slot.]
 
+https://github.com/mckeags7/WorkdayScheduler/blob/main/assets/05-third-party-apis-homework-demo.gif
+
 ## Review
 
 You are required to submit the following for review:
